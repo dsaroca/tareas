@@ -1,0 +1,5 @@
+# Instrucciones Tarea Self Data Tracking
+## Comentarios: decisiones de datos recopilados
+La decisión fue tomada en base a que soy una persona con control de sus calorías y habitos alimentarios en general, así que serían datos faciles de entender y recopilar. La recopilación de datos fue realizada a tráves de una especie de "bitacora digital", aproximando a números más simples el registro que se consiguió. Existen variables y divisiones que se pueden asociar a esta self data, para crear una recopilación completa.
+## Explicación de variables/dimensiones 
+Las variables son "¿Se tomó desayuno?", esperando una respuesta de sí o no, para tener una variable y en el futuro usarlo como base de como partió el día. "Desayuno (cal)", "almuerzo (cal)", "cena (cal)", donde dividimos las calorías en base a un plan que no supera las 2000, calorías, y por último "Litros de agua (cal)" bebidos en un día. Estas variables ayudan a estimar habitos alimentarios y se puede comparar con trabajos anteriores.
