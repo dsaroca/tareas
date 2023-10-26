@@ -4,8 +4,13 @@ El relato de este gráfico cuenta cómo durante una semana normal realizo mis ha
 El de barras es una versión de mis calorias durante una semana de los almuerzos consumidos, es una versión más precisa y menos profunda.
 El de burjbujas es una versión más detallada en la que vemos: un gráfico con burbujas por tamaño con toda mi tabla de una semana de habitos alimenticios, con colores diferentes si tomé desayuno o no, y forma diferente si es que tomé 2 litros de agua.
 
+# Datos con los que trabajé
+https://github.com/dsaroca/tareas/tree/main/Tareas/tarea_03
+
 # link notebook 
 https://colab.research.google.com/drive/1dtpvn1XzsWvZYrZ2jYO4P5Lkvaegvhit#scrollTo=YENhr6KhcdYL
+
+
 
 ## Explicación del proceso:
 Los gráficos se crearon en base a el apoyo que dejó de las clases en los repositorios, las clases, y tutoriales externos.
