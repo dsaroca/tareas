@@ -1,8 +1,42 @@
-body{
-	background: #FEE6FF;
-	padding: 10px;
+body {
+    background: #FEE6FF;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
 }
 
-#seccion-1{
-	color: green;
+header {
+    text-align: center; /* Alineado al centro */
 }
+
+#seccion-1 {
+    color: green;
+}
+
+header,
+section,
+footer {
+    width: 80%;
+    max-width: 800px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+header img {
+    margin-top: 10px; /* Añade margen superior a la imagen */
+    border: 10px solid #333; /* Añade un borde de 2 píxeles sólidos de color gris oscuro */
+    border-radius: 8px; /* Aplica un borde redondeado para un aspecto más suave */
+    overflow: hidden; /* Asegura que el borde redondeado se aplique correctamente */
+}
+
+
