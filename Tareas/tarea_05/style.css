@@ -8,16 +8,16 @@ body {
 }
 
 header {
-    text-align: center; /* Alineado al centro */
+    text-align: center;
+    background-color: #CA7FAB;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
-#seccion-1 {
-    color: green;
-}
-
-header,
-section,
-footer {
+.informacion-academica,
+.informacion-laboral,
+.habilidades,
+#enlace-seccion {
     width: 80%;
     max-width: 800px;
     margin-bottom: 20px;
@@ -33,10 +33,15 @@ li {
 }
 
 header img {
-    margin-top: 10px; /* Añade margen superior a la imagen */
-    border: 10px solid #333; /* Añade un borde de 2 píxeles sólidos de color gris oscuro */
-    border-radius: 8px; /* Aplica un borde redondeado para un aspecto más suave */
-    overflow: hidden; /* Asegura que el borde redondeado se aplique correctamente */
+    margin-top: 10px;
+    border: 10px solid #FEE6FF;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 150px; /* Ajusta el tamaño máximo de la foto */
 }
 
-
+#enlace-seccion a {
+    color: fuchsia;
+    text-decoration: underline;
+}
